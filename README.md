@@ -9,7 +9,7 @@
 - 🤔 I’m on the lookout for Frontend-Developer roles.
 
 
-- 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabunmi-gbemisoye-053a7822a/)
+- 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwo-salami-54abb3287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 ### Languages and Tools:
