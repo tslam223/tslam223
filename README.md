@@ -40,14 +40,14 @@
 
 <h4 >Top languages</h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwa-bunmi&langs_count=10&theme=tokyonight&layout=compact" alt="Oluwabunmi :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tslam223&langs_count=10&theme=tokyonight&layout=compact" alt="tslam :: Top Langs" /></p>
 
 <h4 >Stats</h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Oluwa-bunmi&show_icons=true&theme=synthwave" alt="Oluwabunmi :: Profile Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=tslam223&show_icons=true&theme=synthwave" alt="Tslam :: Profile Stats" /></p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
 ---
 
-⭐️ From [@Oluwa-bunmi](https://github.com/Oluwa-bunmi)
+⭐️ From [@tslam223](https://github.com/Tslam)
